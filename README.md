@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **knayemlol24@gmail.com**
+- 📫 How to reach me **nsarkar6251@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
