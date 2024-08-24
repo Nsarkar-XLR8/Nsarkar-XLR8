@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsarkar-xlr8&label=Profile%20views&color=0e75b6&style=flat" alt="nsarkar-xlr8" /> </p>
 
-- 🔭 I’m currently working on **System Analysis Design**
+- 🔭 I’m currently working on **Software Engineering**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **nsarkar6251gmail.com**
 
