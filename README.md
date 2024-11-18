@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Software Engineering**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Express.js**
 
 - 💬 Ask me about **JavaScript**
 
