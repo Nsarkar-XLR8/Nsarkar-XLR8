@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsarkar-xlr8&label=Profile%20views&color=0e75b6&style=flat" alt="nsarkar-xlr8" /> </p>
 
-- 🔭 I’m currently working on **DevOps**
+- 🔭 I’m currently working on **NestJS**
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **DevOps** 
 
 - 💬 Ask me about **JavaScript**
 
