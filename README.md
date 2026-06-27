@@ -143,7 +143,7 @@ CI/CD pipelines with GitHub Actions, Dockerized services, and Linux-managed AWS 
       <sub>Continuous Integration</sub>
     </td>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Architecture-Modular-a3be8c?style=for-the-badge&logo=nestjs&logoColor=2e3440" /><br/>
+      <img src="https://img.shields.io/badge/Architecture-Hexagonal-a3be8c?style=for-the-badge&logo=nestjs&logoColor=2e3440" /><br/>
       <sub>Clean Systems Architect</sub>
     </td>
     <td align="center" width="200">
