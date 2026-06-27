@@ -139,11 +139,11 @@ CI/CD pipelines with GitHub Actions, Dockerized services, and Linux-managed AWS 
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nsarkar-xlr8&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nsarkar-xlr8&theme=onedark&column=7&margin-w=15&margin-h=15" alt="nsarkar-xlr8 Trophies" />
+  </a>
+</p>
 
 ---
 
