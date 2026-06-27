@@ -5,7 +5,7 @@
 
 <!-- Animated typing banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=88C0D0&center=true&vCenter=true&random=false&width=600&lines=Node.js+%2F+NestJS+Backend+Engineer;Microservices+%26+Distributed+Systems;Redis+%7C+BullMQ+%7C+WebSockets;AWS+%7C+Docker+%7C+GitHub+Actions;Building+production+systems+that+scale." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=88C0D0&center=true&vCenter=true&random=false&width=600&lines=SpringBoot+%2F+NestJS+Backend+Engineer;Microservices+%26+Distributed+Systems;Redis+%7C+BullMQ+%7C+WebSockets;AWS+%7C+Docker+%7C+GitHub+Actions;Building+production+systems+that+scale." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -144,6 +144,18 @@ CI/CD pipelines with GitHub Actions, Dockerized services, and Linux-managed AWS 
 <img src="https://github-profile-trophy.vercel.app/?username=nsarkar-xlr8&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
 
 </div>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsarkar-xlr8/nsarkar-xlr8/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsarkar-xlr8/nsarkar-xlr8/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nsarkar-xlr8/nsarkar-xlr8/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
