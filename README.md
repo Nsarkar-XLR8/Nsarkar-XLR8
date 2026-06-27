@@ -132,35 +132,32 @@ CI/CD pipelines with GitHub Actions, Dockerized services, and Linux-managed AWS 
 </div>
 
 ---
-
-### 🏆 GitHub Trophies
+### 🏆 Engineering Milestones
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nsarkar-xlr8&theme=onedark&column=7&margin-w=15&margin-h=15" alt="nsarkar-xlr8 Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Nsarkar-XLR8&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Nsarkar-XLR8 Trophies" />
   </a>
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 🐍 Interactive Contribution Flow
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsarkar-xlr8/nsarkar-xlr8/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsarkar-xlr8/nsarkar-xlr8/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nsarkar-xlr8/nsarkar-xlr8/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nsarkar-XLR8/Nsarkar-XLR8/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nsarkar-XLR8/Nsarkar-XLR8/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Nsarkar-XLR8/Nsarkar-XLR8/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Activity Metrics
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nsarkar-xlr8&bg_color=0d1117&color=88c0d0&line=5e81ac&point=ebcb8b&area=true&hide_border=true" alt="Contribution Graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nsarkar-XLR8&bg_color=0d1117&color=88c0d0&line=5e81ac&point=ebcb8b&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -170,31 +167,22 @@ CI/CD pipelines with GitHub Actions, Dockerized services, and Linux-managed AWS 
 <div align="center">
 
 <a href="mailto:nsarkar6251@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nayem-sarkar" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/@nsarkar203032" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
 </a>
-
-<br/><br/>
-
-<!-- Snake animation — requires GitHub Actions workflow (see below) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsarkar-xlr8/nsarkar-xlr8/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsarkar-xlr8/nsarkar-xlr8/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/nsarkar-xlr8/nsarkar-xlr8/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%" />
 
 <!-- 
 ===========================================
