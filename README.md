@@ -134,11 +134,26 @@ CI/CD pipelines with GitHub Actions, Dockerized services, and Linux-managed AWS 
 ---
 ### 🏆 Engineering Milestones
 
-<p align="center">
-  <a href="https://github.com/Nsarkar-XLR8">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nsarkar-XLR8&theme=nord" alt="Nsarkar-XLR8 Milestones" />
-  </a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Commits-Solid%20History-88c0d0?style=for-the-badge&logo=git&logoColor=2e3440" /><br/>
+      <sub>Continuous Integration</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Architecture-Modular-a3be8c?style=for-the-badge&logo=nestjs&logoColor=2e3440" /><br/>
+      <sub>Clean Systems Architect</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Infrastructure-Scale-ebcb8b?style=for-the-badge&logo=docker&logoColor=2e3440" /><br/>
+      <sub>Production Ready</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
