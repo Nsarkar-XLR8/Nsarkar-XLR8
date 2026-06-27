@@ -135,8 +135,8 @@ CI/CD pipelines with GitHub Actions, Dockerized services, and Linux-managed AWS 
 ### 🏆 Engineering Milestones
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nsarkar-XLR8&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Nsarkar-XLR8 Trophies" />
+  <a href="https://github.com/Nsarkar-XLR8">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nsarkar-XLR8&theme=nord" alt="Nsarkar-XLR8 Milestones" />
   </a>
 </p>
 
