@@ -1,26 +1,22 @@
+
 <div align="center">
 
-<!-- Animated header with typewriter-style name -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,24&height=200&section=header&text=Nayem%20Sarkar&fontSize=60&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=Backend%20Software%20Engineer&descAlignY=75&descSize=18&descColor=88c0d0" alt="Header" width="100%" />
+<!-- Modern Minimalist Typographic Header -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=88C0D0&text=NAYEM%20SARKAR&fontSize=52&height=120&animation=fadeIn" alt="Nayem Sarkar" width="100%" />
 
-<!-- Animated typing banner -->
+<!-- Clean Technical Specializations Sub-Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=88C0D0&center=true&vCenter=true&random=false&width=600&lines=NestJS+Backend+Software+Engineer;Microservices+%26+Distributed+Systems;Redis+%7C+BullMQ+%7C+WebSockets;AWS+%7C+Docker+%7C+GitHub+Actions;Building+production+systems+that+scale." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=D8DEE9&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Distributed+Systems+%26+Microservices;Redis+%7C+BullMQ+%7C+NestJS" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile views + social trophies row -->
-<img src="https://komarev.com/ghpvc/?username=Nsarkar-XLR8&label=Profile+Views&color=0e75b6&style=flat-square" />
+<!-- Sleek, Flat Profile Tracking Badges -->
+<img src="https://komarev.com/ghpvc/?username=Nsarkar-XLR8&label=Profile+Views&color=4c566a&style=flat" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Nsarkar-XLR8?label=Followers&style=flat-square&color=0e75b6" />
+<img src="https://img.shields.io/github/followers/Nsarkar-XLR8?label=Followers&style=flat&color=4c566a" />
 
 </div>
-
----
-
-<!-- About section with GIF -->
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### `whoami`
 
