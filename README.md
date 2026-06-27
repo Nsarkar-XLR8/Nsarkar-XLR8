@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Profile views + social trophies row -->
-<img src="https://komarev.com/ghpvc/?username=nsarkar-xlr8&label=Profile+Views&color=0e75b6&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Nsarkar-XLR8&label=Profile+Views&color=0e75b6&style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/nsarkar-xlr8?label=Followers&style=flat-square&color=0e75b6" />
+<img src="https://img.shields.io/github/followers/Nsarkar-XLR8?label=Followers&style=flat-square&color=0e75b6" />
 
 </div>
 
