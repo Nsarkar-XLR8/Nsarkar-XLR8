@@ -36,7 +36,6 @@ Detailed architectural breakdowns and system designs can be referenced in `Nest_
 
 ---
 
-### 📊 Engineering Metrics
 
 ---
 
