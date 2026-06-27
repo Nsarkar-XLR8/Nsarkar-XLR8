@@ -39,8 +39,12 @@ Detailed architectural breakdowns and system designs can be referenced in `Nest_
 ### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-metrics.vercel.app/api?username=nsarkar-xlr8&theme=github_dark&show_icons=true" alt="Engineering Stats" width="48%" />
-  <img src="https://github-readme-metrics.vercel.app/api/top-langs?username=nsarkar-xlr8&theme=github_dark&layout=compact" alt="Language Balance" width="48%" />
+  <img src="https://github-readme-stats.vercel.com/api?username=nsarkar-xlr8&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.com/api/top-langs?username=nsarkar-xlr8&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsarkar-xlr8&theme=tokyonight" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
