@@ -30,7 +30,7 @@ const nayem = {
   location:   "Dhaka, Bangladesh 🇧🇩",
   experience: "1+ year in production systems",
   focus:      [
-    "SpringBoot microservices",
+    "Modular NestJS Service Architectures",
     "Multi-tenant SaaS architecture",
     "Redis caching layers",
     "Automated e-commerce backends",
