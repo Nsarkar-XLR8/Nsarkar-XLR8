@@ -123,7 +123,14 @@ CI/CD pipelines with GitHub Actions, Dockerized services, and Linux-managed AWS 
 
 <img src="https://github-readme-stats.vercel.app/api?username=nsarkar-xlr8&show_icons=true&theme=nord&locale=en&hide_border=true&bg_color=0d1117&title_color=88c0d0&icon_color=88c0d0&text_color=c0caf5" height="160" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nsarkar-xlr8&show_icons=true&theme=nord&locale=en&layout=compact&hide_border=true&bg_color=0d1117&title_color=88c0d0&text_color=c0caf5" height="160" alt="Top Languages" />
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsarkar-xlr8&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&title_color=88c0d0&text_color=c0caf5"
+    height="160"
+    alt="Top Languages"
+  />
+</p>
 
 <br/><br/>
 
