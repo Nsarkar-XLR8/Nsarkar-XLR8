@@ -124,7 +124,7 @@ CI/CD pipelines with GitHub Actions, Dockerized services, and Linux-managed AWS 
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nsarkar-XLR8&show_icons=true&theme=nord" />
   <img height="160"
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nsarkar-XLR8&layout=compact&theme=nord" />
-</div>
+
 
 <br/><br/>
 
