@@ -24,7 +24,7 @@
 const nayem = {
   role:       "Backend Software Engineer",
   location:   "Dhaka, Bangladesh 🇧🇩",
-  experience: "1+ year in production systems",
+  experience: "3+ year in production systems",
   focus:      [
     "Modular NestJS Service Architectures",
     "Multi-tenant SaaS architecture",
